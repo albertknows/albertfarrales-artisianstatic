@@ -11,7 +11,7 @@
 
     <h2 id="test">Asset Compilation Test:</h2>
 
-    <p>CSS test: <span class="test-css">Text with Blue Border</span></p>
+    <p>CSS Test: <span class="test-css">Text with Blue Border</span></p>
 
-    <p>JavaScript test: <a href="#test" class="test-js">Click Me</a></p>
+    <p>JavaScript Test: <a href="#test" class="test-js">Click Me</a></p>
 @endsection
