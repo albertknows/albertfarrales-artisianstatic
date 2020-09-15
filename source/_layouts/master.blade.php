@@ -41,7 +41,7 @@
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
                 Maintained by Albert Farrales &nbsp;&bull;&nbsp;
-                <a href="https://github.com/albertknows/albertfarrales-artisianstatic">GitHub repo</a>.
+                <a href="https://github.com/albertknows/albertfarrales-artisianstatic">GitHub Repo</a>.
             </small>
         </footer>
     </section>
