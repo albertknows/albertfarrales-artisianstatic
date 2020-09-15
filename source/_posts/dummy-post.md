@@ -1,11 +1,11 @@
 ---
-title: '01 - Dummy Post'
-date: 2019-04-30
+title: '01 - How I Host This Website for Free:'
+date: 2020-15-09
 tags:
+  - albert
+  - life
   - css
   - javascript
-  - php
-  - laravel
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
 ---
 ## Heading 2
