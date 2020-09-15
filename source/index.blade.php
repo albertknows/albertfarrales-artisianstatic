@@ -9,7 +9,7 @@
     
     <p>Feel free to follow me on LinkedIn using the About Tab or contact me using the Contact Tab above.</p>
 
-    <h2 id="test">Asset Compilation Test</h2>
+    <h2 id="test">Asset Compilation Test:</h2>
 
     <p>CSS test: <span class="test-css">Text with Blue Border</span></p>
 
