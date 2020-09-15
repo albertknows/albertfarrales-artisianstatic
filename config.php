@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Albert Farrales',
+        'description' => 'Personal blog of Albert Farrales.',
         'image' => 'default-share.png',
     ],
     'owner' => [
