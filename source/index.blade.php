@@ -1,11 +1,11 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>Welcome to My Website</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>I was just curious during Coronavirus and decided to see how much it would cost to make a static website.</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>So far I've paid 9 dollars for my domain name, Albert Farrales. The hosting is completely free courtesy of Netfliy. (Not Sponsored)</p>
 
     <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
 
