@@ -2,6 +2,8 @@
 
 @section('content')
     <h1>Welcome to My Own Website</h1>
+    
+     str_repeat('&nbsp;', 5);
 
     <p>I was just curious during Coronavirus and decided to see how much it would cost to make a static website. So far I've paid 9 dollars for my domain name, albertfarrales.com. The hosting is completely free courtesy of Netfliy. (Not Sponsored)</p>
 
